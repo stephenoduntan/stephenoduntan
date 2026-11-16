@@ -254,14 +254,14 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <img width="36" height="36" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" /><br/>
       <sub><b>MongoDB</b></sub>
     </td>
-  </tr>
-
-  <!-- Row 3: Cloud, Infrastructure & Observability -->
-  <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/claude/D97706" alt="Claude" /><br/>
       <sub><b>Claude</b></sub>
     </td>
+  </tr>
+
+  <!-- Row 3: Cloud, Infrastructure & Observability -->
+  <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" /><br/>
       <sub><b>Jira</b></sub>
