@@ -65,7 +65,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Circuit divider"/>
 </p>
 
 
@@ -109,7 +109,9 @@ const olawoleOduntan: ProductDesigner & FrontendEngineer = {
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -144,7 +146,9 @@ Most teams face friction at the boundary between design and code. My hybrid work
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -335,7 +339,9 @@ Most teams face friction at the boundary between design and code. My hybrid work
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -538,7 +544,7 @@ From initial constraints to living production code, every project moves through 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
 </p>
 
 
