@@ -67,7 +67,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/stephenoduntan">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Circuit divider"/>
   </a>
 </p>
@@ -113,7 +113,7 @@ const olawoleOduntan: ProductDesigner & FrontendEngineer = {
 ```
 
 <p align="center">
-  <a href="https://github.com/stephenoduntan">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
@@ -150,7 +150,7 @@ Most teams face friction at the boundary between design and code. My hybrid work
 </table>
 
 <p align="center">
-  <a href="https://github.com/stephenoduntan">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
@@ -175,77 +175,77 @@ Most teams face friction at the boundary between design and code. My hybrid work
   <!-- Row 1: Frontend & Fullstack -->
   <tr>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
       </a>
       <br/>
       <sub><b>Figma</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" />
       </a>
       <br/>
       <sub><b>Next</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" />
       </a>
       <br/>
       <sub><b>React</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" />
       </a>
       <br/>
       <sub><b>Vue</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/nuxt/00DC82" alt="Nuxt" />
       </a>
       <br/>
       <sub><b>Nuxt</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" />
       </a>
       <br/>
       <sub><b>NodeJS</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />
       </a>
       <br/>
       <sub><b>TypeScript</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" />
       </a>  
       <br/>
       <sub><b>Framer</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://www.gstatic.com/images/branding/product/2x/sites_2020q4_48dp.png" alt="Google Site" />
       </a>
       <br/>
       <sub><b>Google Site</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" />
       </a>
       <br/>
       <sub><b>Tailwind CSS</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />
       </a>
       <br/>
@@ -256,77 +256,77 @@ Most teams face friction at the boundary between design and code. My hybrid work
   <!-- Row 2: Design & Prototyping -->
   <tr>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" />
       </a>
       <br/>
       <sub><b>HTML5 / CSS3</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" />
       </a>
       <br/>
       <sub><b>Vercel</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" />
       </a>
       <br/>
       <sub><b>Netlify</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/render/white" alt="Render" />
       </a>
       <br/>
       <sub><b>Render</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" />
       </a>
       <br/>
       <sub><b>Cloudflare</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/sentry/white" alt="Sentry" />
       </a>
       <br/>
       <sub><b>Sentry</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/brevo/0B996F" alt="Brevo" />
       </a>
       <br/>
       <sub><b>Brevo</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" />
       </a>
       <br/>
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" />
       </a>
       <br/>
       <sub><b>MySQL</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
       </a>
       <br/>
       <sub><b>MongoDB</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/claude/D97706" alt="Claude" />
       </a>
       <br/>
@@ -337,28 +337,28 @@ Most teams face friction at the boundary between design and code. My hybrid work
   <!-- Row 3: Cloud, Infrastructure & Observability -->
   <tr>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" />
       </a>
       <br/>
       <sub><b>Jira</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/github/white" alt="Github" />
       </a>
       <br/>
       <sub><b>Github</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://cdn.simpleicons.org/git" alt="Git" />
       </a>
       <br/>
       <sub><b>Git</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <a href="https://github.com/stephoduntan">
+      <a href="#">
         <img width="36" height="36" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VScode" />
       </a>
       <br/>
@@ -441,10 +441,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Two-Sided UK Hairstylist Marketplace</b></p>
       <p>Orchestrated product strategy, brand identity, and dual-sided user journeys across both client booking and stylist onboarding experiences, including localized onboarding flows built for UK regulatory compliance.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20UX%20Strategy-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Scope-Marketplace%20%C2%B7%20UK%20Compliance-161e2e?style=flat-square" alt="Scope" />
         </a>
       </p>
@@ -457,10 +457,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Global Freight Forwarding & Logistics Platform</b></p>
       <p>Led the end-to-end UI/UX redesign of both the core logistics web application and public marketing platform. Streamlined complex B2B supply chain procedures into frictionless digital workflows, establishing an intuitive navigation framework tailored for shippers and freight forwarders.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Lead%20Product%20Designer-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Stack-B2B%20Logistics%20%C2%B7%20SaaS%20Workflows-161e2e?style=flat-square" alt="Stack" />
         </a>
       </p>
@@ -477,10 +477,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>NGO Platform & Searchable Research Database</b></p>
       <p>Restructured the organization's information architecture to maximize research discoverability. Designed a minimalist, functional aesthetic and engineered a dedicated, searchable research database for toolkits and case study publications with long-term performance optimization.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Experience%20Design%20%C2%B7%20Visual%20Dev-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Tech-Searchable%20Database%20%C2%B7%20IA-161e2e?style=flat-square" alt="Tech" />
         </a>
       </p>
@@ -493,10 +493,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Cloud Solutions, Custom Software & Enterprise ERP</b></p>
       <p>Assembled a comprehensive design framework and component library for Cloudrock's enterprise web presence. Established typography scales, grid hierarchies, reusable UI templates, and accessible layouts that align aesthetics with complex B2B service offerings.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Visual%20Design%20%C2%B7%20Design%20Framework-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Deliverables-Enterprise%20System%20%C2%B7%20WCAG-161e2e?style=flat-square" alt="Deliverables" />
         </a>
       </p>
@@ -513,10 +513,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Secure Cryptocurrency & Multi-Currency Fiat Exchange</b></p>
       <p>Directed the complete human-centered design process for a secure cryptocurrency and fiat exchange. Simplified complex, volatile trading flows into an intuitive interface designed for both beginner and seasoned traders, integrating transparent security protocols to foster user confidence.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Lead%20UI%2FUX%20Designer-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Domain-Crypto%20Trading%20%C2%B7%20Mobile%20%26%20Web-161e2e?style=flat-square" alt="Domain" />
         </a>
       </p>
@@ -529,10 +529,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Mobile-First Food Logistics & Pizza Delivery App</b></p>
       <p>Designed a mobile-first food logistics application created to streamline menu exploration, real-time pizza customization, and order delivery. Crafted an ultra-low friction checkout experience with live status tracking to eliminate drop-offs and optimize delivery speed.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Product%20Designer%20%C2%B7%20UX%20Research-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Focus-Food%20Logistics%20%C2%B7%20Mobile%20UX-161e2e?style=flat-square" alt="Focus" />
         </a>
       </p>
@@ -549,10 +549,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>Interactive Bible Trivia & Gamified Learning Ecosystem</b></p>
       <p>Designed the product experience and web landing platform for an interactive faith-based mobile gaming initiative. Built engaging onboarding flows, multi-tiered quiz progression interfaces, and conversion funnels driving app adoption across iOS and Android.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20Frontend-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Product-Gamified%20EdTech%20%C2%B7%20Mobile%20Web-161e2e?style=flat-square" alt="Product" />
         </a>
       </p>
@@ -565,10 +565,10 @@ A selection of strategic product design and frontend builds across SaaS, marketp
       <p><b>City-Wide Cultural Tourism Survey Initiative</b></p>
       <p>Engineered an interactive, high-conversion survey platform for a city-wide tourism initiative in Lagos. Built on a strict four-color design token system and implemented with lightweight semantic HTML/CSS for blazing-fast mobile performance across diverse network conditions.</p>
       <p>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20Frontend%20Build-F7AF1C?style=flat-square" alt="Role" />
         </a>
-        <a href="https://github.com/stephoduntan">
+        <a href="#">
           <img src="https://img.shields.io/badge/Tech-Strict%204--Color%20Tokens%20%C2%B7%20HTML%2FCSS-161e2e?style=flat-square" alt="Tech" />
         </a>
       </p>
@@ -639,7 +639,7 @@ From initial constraints to living production code, every project moves through 
 5. **Audit & Hand Off:** Validate against WCAG 2.1 AA, verify cross-browser performance, and deliver living specs developers can actually build with.
 
 <p align="center">
-  <a href="https://github.com/stephenoduntan">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
@@ -651,21 +651,21 @@ From initial constraints to living production code, every project moves through 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/stephenoduntan">
+<a href="#">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenoduntan&theme=dark&background=0d1117&border=30363d&stroke=F7AF1C&ring=F7AF1C&fire=F7AF1C&currStreakLabel=F7AF1C" alt="GitHub Streak Stats" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
-<a href="https://github.com/stephenoduntan">
+<a href="#">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephenoduntan&bg_color=0d1117&color=F7AF1C&line=F7AF1C&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph" />
 </a>
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/stephenoduntan">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
