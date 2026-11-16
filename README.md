@@ -194,10 +194,6 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <img width="36" height="36" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
-  </tr>
-
-  <!-- Row 2: Design & Prototyping -->
-  <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" /><br/>
       <sub><b>Framer</b></sub>
@@ -214,6 +210,10 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <img width="36" height="36" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
+  </tr>
+
+  <!-- Row 2: Design & Prototyping -->
+  <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br/>
       <sub><b>HTML5 / CSS3</b></sub>
@@ -226,10 +226,6 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <img width="36" height="36" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" /><br/>
       <sub><b>Netlify</b></sub>
     </td>
-  </tr>
-
-  <!-- Row 3: Cloud, Infrastructure & Observability -->
-  <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/render/white" alt="Render" /><br/>
       <sub><b>Render</b></sub>
@@ -260,7 +256,7 @@ Most teams face friction at the boundary between design and code. My hybrid work
     </td>
   </tr>
 
-  <!-- Row 4: Databases, AI & Productivity -->
+  <!-- Row 3: Cloud, Infrastructure & Observability -->
   <tr>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://cdn.simpleicons.org/claude/D97706" alt="Claude" /><br/>
@@ -271,12 +267,12 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <sub><b>Jira</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/github/white" alt="Git" /><br/>
-      <sub><b>Git</b></sub>
+      <img width="36" height="36" src="https://cdn.simpleicons.org/github/white" alt="Github" /><br/>
+      <sub><b>Github</b></sub>
     </td>
     <td width="16.66%" align="center">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/git" alt="GitHub" /><br/>
-      <sub><b>GitHub</b></sub>
+      <img width="36" height="36" src="https://cdn.simpleicons.org/git" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
     </td>
     <td width="16.66%" align="center">
       <img width="36" height="36" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VScode" /><br/>
