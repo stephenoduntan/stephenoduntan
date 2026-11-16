@@ -155,57 +155,176 @@ Most teams face friction at the boundary between design and code. My hybrid work
 
 <!-- Visual Skill Icons Strip -->
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,jquery,git,github,vscode,postman&theme=dark" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,nodejs,postgres,mysql,mongodb,netlify,cloudflare,sentry,git,github,vscode&theme=dark" alt="Core Tech Stack" />
 </a>
 
 </div>
 
 <br/>
 
+<!-- Visual Tech Stack Grid (JustineDevs & HiradEmami inspired) -->
+<table width="100%">
+  <!-- Row 1: Frontend & Fullstack -->
+  <tr>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" /><br/>
+      <sub><b>Next</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" /><br/>
+      <sub><b>Vue</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/nuxt/00DC82" alt="Nuxt" /><br/>
+      <sub><b>Nuxt</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" /><br/>
+      <sub><b>NodeJS</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+
+  <!-- Row 2: Design & Prototyping -->
+  <tr>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer" /><br/>
+      <sub><b>Framer</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://www.gstatic.com/images/branding/product/2x/sites_2020q4_48dp.png" alt="Google Site" /><br/>
+      <sub><b>Google Site</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br/>
+      <sub><b>HTML5 / CSS3</b></sub>
+    </td>
+  </tr>
+
+  <!-- Row 3: Cloud, Infrastructure & Observability -->
+  <tr>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" /><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" /><br/>
+      <sub><b>Netlify</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/render/white" alt="Render" /><br/>
+      <sub><b>Render</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" /><br/>
+      <sub><b>Cloudflare</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/sentry/white" alt="Sentry" /><br/>
+      <sub><b>Sentry</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/brevo/0B996F" alt="Brevo" /><br/>
+      <sub><b>Brevo</b></sub>
+    </td>
+  </tr>
+
+  <!-- Row 4: Databases, AI & Productivity -->
+  <tr>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/claude/D97706" alt="Claude" /><br/>
+      <sub><b>Claude</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" /><br/>
+      <sub><b>Jira</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/github/white" alt="GitHub" /><br/>
+      <sub><b>Git & GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table>
   <thead>
     <tr>
-      <th width="25%">🎨 Design & Research</th>
-      <th width="25%">💻 Frontend & Logic</th>
-      <th width="25%">📐 Design-to-Code</th>
-      <th width="25%">🚀 Platforms & Tooling</th>
+      <th width="25%">🎨 Design & Prototyping</th>
+      <th width="25%">💻 Frontend & Frameworks</th>
+      <th width="25%">🗄️ Backend & Databases</th>
+      <th width="25%">🚀 Cloud, DevOps & AI</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        • <b>Figma</b> (Variables & Components)<br/>
+        • <b>Figma</b> (Variables & Tokens)<br/>
+        • <b>Framer</b> (Interactive Sites)<br/>
+        • <b>Google Site</b> (Intranets & Hubs)<br/>
         • <b>FigJam</b> (Flows & IA)<br/>
         • <b>Adobe XD & Illustrator</b><br/>
         • <b>Photoshop</b><br/>
-        • Wireframing & Usability Testing<br/>
-        • Heuristic UX Audits<br/>
-        • Information Architecture
+        • Wireframing & Usability Audits
       </td>
       <td valign="top">
+        • <b>Next</b> & <b>React</b><br/>
+        • <b>Vue</b> & <b>Nuxt</b><br/>
+        • <b>NodeJS</b> (Runtime & Scripts)<br/>
+        • <b>TypeScript</b> & <b>JavaScript</b><br/>
         • <b>HTML5</b> (Semantic & WCAG AA)<br/>
-        • <b>CSS3</b> (Flexbox, Grid, Variables)<br/>
-        • <b>Tailwind CSS & SCSS</b><br/>
-        • <b>JavaScript</b> (ES6+)<br/>
-        • <b>TypeScript</b><br/>
-        • <b>React</b> (Components & Hooks)<br/>
-        • <b>jQuery</b>
+        • <b>CSS3</b> & <b>Tailwind CSS</b><br/>
+        • <b>jQuery</b> & SCSS
       </td>
       <td valign="top">
-        • <b>Design Tokens</b> Architecture<br/>
-        • <b>Figma Dev Mode</b> Specs<br/>
-        • Component States Documentation<br/>
-        • Micro-interactions & Motion<br/>
-        • Responsive Breakpoints System<br/>
-        • Edge Case Specifications
+        • <b>PostgreSQL</b><br/>
+        • <b>MySQL</b><br/>
+        • <b>MongoDB</b><br/>
+        • <b>Brevo</b> (Transactional & CRM)<br/>
+        • RESTful APIs & Integrations<br/>
+        • Design Tokens Schema<br/>
+        • Data Modeling & Workflows
       </td>
       <td valign="top">
-        • <b>Framer</b> & <b>Webflow</b><br/>
-        • <b>Git & GitHub</b><br/>
-        • <b>VS Code</b><br/>
-        • <b>Vercel & Netlify</b><br/>
-        • <b>Google Sites</b> (Intranets)<br/>
-        • Shopify & Wix Audits
+        • <b>Vercel</b> & <b>Netlify</b><br/>
+        • <b>Render</b> & <b>Cloudflare</b><br/>
+        • <b>Sentry</b> (Error Monitoring)<br/>
+        • <b>Claude</b> (AI Workflows & Prompting)<br/>
+        • <b>Jira</b> (Agile & Sprint Planning)<br/>
+        • <b>Git, GitHub & VS Code</b><br/>
+        • Performance & SEO Audits
       </td>
     </tr>
   </tbody>
