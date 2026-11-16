@@ -223,20 +223,8 @@ Most teams face friction at the boundary between design and code. My hybrid work
 A selection of strategic product design and frontend builds across SaaS, marketplaces, and digital platforms:
 
 <table>
-  <!-- Row 1: Kyvero & Braiding Palace -->
+  <!-- Row 1: Braiding Palace & Kargoplex -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Kyvero</h3>
-      <p><b>Visual CI/CD Platform for Multi-Cloud Kubernetes</b></p>
-      <p>Architected the end-to-end design system, in-product information architecture (7-section navigation and core deployment flows), and built a dark-mode "mission control" marketing website in responsive HTML/CSS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20Frontend-F7AF1C?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Stack-Figma%20%C2%B7%20HTML5%20%C2%B7%20CSS3-161e2e?style=flat-square" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://behance.net/olawoleoduntan" target="_blank"><b>View Case Study on Behance →</b></a>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>💇‍♀️ Braiding Palace</h3>
       <p><b>Two-Sided UK Hairstylist Marketplace</b></p>
@@ -249,60 +237,100 @@ A selection of strategic product design and frontend builds across SaaS, marketp
         <a href="https://braidingpalace.co.uk" target="_blank"><b>Visit Live Marketplace →</b></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🚢 Kargoplex</h3>
+      <p><b>Global Freight Forwarding & Logistics Platform</b></p>
+      <p>Led the end-to-end UI/UX redesign of both the core logistics web application and public marketing platform. Streamlined complex B2B supply chain procedures into frictionless digital workflows, establishing an intuitive navigation framework tailored for shippers and freight forwarders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Lead%20Product%20Designer-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Stack-B2B%20Logistics%20%C2%B7%20SaaS%20Workflows-161e2e?style=flat-square" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://oocreativ.framer.website/kargoplex" target="_blank"><b>Explore Kargoplex Case Study →</b></a>
+      </p>
+    </td>
   </tr>
 
-  <!-- Row 2: The Insider Lagos & TSC Team Hub -->
+  <!-- Row 2: The Sahara Centre & Cloudrock Technologies -->
   <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ The Sahara Centre</h3>
+      <p><b>NGO Platform & Searchable Research Database</b></p>
+      <p>Restructured the organization's information architecture to maximize research discoverability. Designed a minimalist, functional aesthetic and engineered a dedicated, searchable research database for toolkits and case study publications with long-term performance optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Experience%20Design%20%C2%B7%20Visual%20Dev-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Tech-Searchable%20Database%20%C2%B7%20IA-161e2e?style=flat-square" alt="Tech" />
+      </p>
+      <p>
+        <a href="https://oocreativ.framer.website/sahara-centre" target="_blank"><b>Explore Sahara Centre Case Study →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloudrock Technologies</h3>
+      <p><b>Cloud Solutions, Custom Software & Enterprise ERP</b></p>
+      <p>Assembled a comprehensive design framework and component library for Cloudrock's enterprise web presence. Established typography scales, grid hierarchies, reusable UI templates, and accessible layouts that align aesthetics with complex B2B service offerings.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Visual%20Design%20%C2%B7%20Design%20Framework-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Deliverables-Enterprise%20System%20%C2%B7%20WCAG-161e2e?style=flat-square" alt="Deliverables" />
+      </p>
+      <p>
+        <a href="https://oocreativ.framer.website/cloudrock" target="_blank"><b>Explore Cloudrock Case Study →</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3: Geken Exchange Network & Urban Slice -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪙 Geken Exchange Network</h3>
+      <p><b>Secure Cryptocurrency & Multi-Currency Fiat Exchange</b></p>
+      <p>Directed the complete human-centered design process for a secure cryptocurrency and fiat exchange. Simplified complex, volatile trading flows into an intuitive interface designed for both beginner and seasoned traders, integrating transparent security protocols to foster user confidence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Lead%20UI%2FUX%20Designer-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Domain-Crypto%20Trading%20%C2%B7%20Mobile%20%26%20Web-161e2e?style=flat-square" alt="Domain" />
+      </p>
+      <p>
+        <a href="https://oocreativ.framer.website/geken" target="_blank"><b>Explore Geken Network Case Study →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍕 Urban Slice</h3>
+      <p><b>Mobile-First Food Logistics & Pizza Delivery App</b></p>
+      <p>Designed a mobile-first food logistics application created to streamline menu exploration, real-time pizza customization, and order delivery. Crafted an ultra-low friction checkout experience with live status tracking to eliminate drop-offs and optimize delivery speed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Product%20Designer%20%C2%B7%20UX%20Research-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Focus-Food%20Logistics%20%C2%B7%20Mobile%20UX-161e2e?style=flat-square" alt="Focus" />
+      </p>
+      <p>
+        <a href="https://oocreativ.framer.website" target="_blank"><b>Explore Urban Slice Showcase →</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 4: The Gospel Games & The Insider Lagos -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 The Gospel Games</h3>
+      <p><b>Interactive Bible Trivia & Gamified Learning Ecosystem</b></p>
+      <p>Designed the product experience and web landing platform for an interactive faith-based mobile gaming initiative. Built engaging onboarding flows, multi-tiered quiz progression interfaces, and conversion funnels driving app adoption across iOS and Android.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20Frontend-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Product-Gamified%20EdTech%20%C2%B7%20Mobile%20Web-161e2e?style=flat-square" alt="Product" />
+      </p>
+      <p>
+        <a href="https://thegospelgames.com" target="_blank"><b>Visit The Gospel Games →</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🌍 The Insider Lagos</h3>
-      <p><b>Lagos Cultural & Tourism Survey Platform</b></p>
-      <p>Engineered an interactive, high-conversion landing page and comprehensive Figma handoff documentation based on a strict four-color design token system, prioritizing mobile performance on low-bandwidth networks.</p>
+      <p><b>City-Wide Cultural Tourism Survey Initiative</b></p>
+      <p>Engineered an interactive, high-conversion survey platform for a city-wide tourism initiative in Lagos. Built on a strict four-color design token system and implemented with lightweight semantic HTML/CSS for blazing-fast mobile performance across diverse network conditions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Role-Design%20%C2%B7%20Frontend%20Build-F7AF1C?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Tech-Figma%20Tokens%20%C2%B7%20Semantic%20HTML-161e2e?style=flat-square" alt="Tech" />
+        <img src="https://img.shields.io/badge/Role-Product%20Design%20%C2%B7%20Frontend%20Build-F7AF1C?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/Tech-Strict%204--Color%20Tokens%20%C2%B7%20HTML%2FCSS-161e2e?style=flat-square" alt="Tech" />
       </p>
       <p>
-        <a href="https://behance.net/olawoleoduntan" target="_blank"><b>Explore Case Study →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 TSC Team Hub</h3>
-      <p><b>Enterprise Staff Intranet for The Sahara Centre</b></p>
-      <p>Designed a structured 7-section intranet workspace covering organizational culture, employee directory, HR operations, SOP documentation, brand guidelines, and new hire onboarding flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-UX%20Research%20%C2%B7%20Information%20Architecture-F7AF1C?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Platform-Google%20Sites%20%C2%B7%20Enterprise-161e2e?style=flat-square" alt="Platform" />
-      </p>
-      <p>
-        <a href="https://behance.net/olawoleoduntan" target="_blank"><b>Read Documentation Overview →</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 3: CLEAR & Rooted & Web Audits -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 CLEAR & Rooted</h3>
-      <p><b>Editorial Architecture & Interactive Preview Systems</b></p>
-      <p>Structured complete book interior layouts and multi-concept visual directions, complemented by interactive HTML preview prototypes for real-time stakeholder review and typographical validation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-Editorial%20Design%20%C2%B7%20HTML%20Viewer-F7AF1C?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Tools-Typography%20%C2%B7%20Layout%20%C2%B7%20HTML-161e2e?style=flat-square" alt="Tools" />
-      </p>
-      <p>
-        <a href="https://behance.net/olawoleoduntan" target="_blank"><b>View Project Details →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 OOCREATIVs UX & Tech Audits</h3>
-      <p><b>Diagnostic Audits for Conversion, Accessibility & Speed</b></p>
-      <p>Carried out comprehensive UX heuristic evaluations, accessibility benchmarks, and technical web audits for ecommerce, mobility, and corporate sites, translating findings into evidence-backed redesign roadmaps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-Heuristic%20Audit%20%C2%B7%20Conversion%20Strategy-F7AF1C?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Deliverables-Actionable%20Proposals-161e2e?style=flat-square" alt="Deliverables" />
-      </p>
-      <p>
-        <a href="https://oocreativ.framer.website" target="_blank"><b>Explore Audit Framework →</b></a>
+        <a href="https://theinsiderlagos.com" target="_blank"><b>Visit The Insider Lagos →</b></a>
       </p>
     </td>
   </tr>
