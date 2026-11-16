@@ -147,7 +147,7 @@ Most teams face friction at the boundary between design and code. My hybrid work
 
 <p align="center">
   <a href="https://github.com/stephenoduntan">
-    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Circuit divider" />
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
 
@@ -338,9 +338,10 @@ Most teams face friction at the boundary between design and code. My hybrid work
   </tbody>
 </table>
 
+
 <p align="center">
   <a href="https://github.com/stephenoduntan">
-    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Circuit divider" />
   </a>
 </p>
 
@@ -465,7 +466,9 @@ A selection of strategic product design and frontend builds across SaaS, marketp
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -497,7 +500,9 @@ While client SaaS applications remain proprietary, here is a curated selection o
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -520,7 +525,9 @@ From initial constraints to living production code, every project moves through 
 5. **Audit & Hand Off:** Validate against WCAG 2.1 AA, verify cross-browser performance, and deliver living specs developers can actually build with.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
@@ -544,7 +551,9 @@ From initial constraints to living production code, every project moves through 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
+  <a href="https://github.com/stephenoduntan">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Circuit divider" />
+  </a>
 </p>
 
 
