@@ -17,7 +17,7 @@
 
 <p align="center">
   <samp>
-    「 Bridging systematic product design with production frontend code — turning complex user flows into resilient digital products. 」
+    「 Bridging systematic product design with production frontend code. Turning complex user flows into resilient digital products. 」
   </samp>
 </p>
 
@@ -73,7 +73,7 @@
 
 I am a **Senior Product Designer and Design Team Lead** with over 6 years of experience engineering high-impact digital experiences across **freight logistics, fintech-adjacent platforms, and multi-sided marketplaces**. I lead design strategy and product execution both independently and through my agency, **OOCREATIVs Digital Product Lab**, collaborating with remote teams across the US, Europe, and Nigeria.
 
-I don't stop at static Figma artboards. With a formal background in **mathematics education**, I look at user interfaces as interconnected, constraint-driven systems. I write the **HTML, CSS, JavaScript, and TypeScript** that powers the interface, ensuring that design handoff isn't a game of telephone — it's an engineering-grade blueprint built with clean architecture, accessible markup, and zero-loss visual fidelity.
+I don't stop at static Figma artboards. With a formal background in **mathematics education**, I look at user interfaces as interconnected, constraint-driven systems. I write the **HTML, CSS, JavaScript, and TypeScript** that powers the interface, ensuring that design handoff isn't a game of telephone, it's an engineering-grade blueprint built with clean architecture, accessible markup, and zero-loss visual fidelity.
 
 > 📍 **Current Focus:** Architecting token-driven design systems for data-dense dashboards · Engineering responsive frontend interfaces · Exploring human-computer interaction and civic technology.
 
