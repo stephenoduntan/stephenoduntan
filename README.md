@@ -68,7 +68,6 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
 
 ## 👤 About Me
 
@@ -113,7 +112,7 @@ const olawoleOduntan: ProductDesigner & FrontendEngineer = {
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## ⚡ The Dual-Discipline Bridge
 
@@ -148,7 +147,7 @@ Most teams face friction at the boundary between design and code. My hybrid work
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## 🛠️ Toolbox & Technology
 
@@ -216,7 +215,7 @@ Most teams face friction at the boundary between design and code. My hybrid work
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## 🗂️ Featured Case Studies
 
@@ -340,7 +339,6 @@ A selection of strategic product design and frontend builds across SaaS, marketp
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
 
 ## 💻 Public Code & Repositories
 
@@ -348,18 +346,19 @@ While client SaaS applications remain proprietary, here is a curated selection o
 
 | Repository | Focus & Architecture | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| [**CHM**](https://github.com/stephenoduntan/CHM) | Interactive web application built with TypeScript, highlighting clean typing and structured logic. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/CHM) |
-| [**Web-Portfolio**](https://github.com/stephenoduntan/Web-Portfolio) | Personal responsive portfolio website showcasing semantic HTML5 structure and custom CSS styling. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/Web-Portfolio) |
-| [**Color-Guess**](https://github.com/stephenoduntan/Color-Guess) | Interactive browser game challenging players to deduce RGB values; pure vanilla JavaScript DOM handling. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [**View Repo**](https://github.com/stephenoduntan/Color-Guess) |
+| [**CHM**](https://github.com/stephenoduntan/CHM) | Interactive web application built with TypeScript, highlighting type safety, clean data models, and structured logic. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/CHM) |
+| [**Color-Guess**](https://github.com/stephenoduntan/Color-Guess) | Interactive browser game challenging players to deduce RGB values; pure vanilla JavaScript DOM handling and event architecture. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [**View Repo**](https://github.com/stephenoduntan/Color-Guess) |
+| [**Javascript-BouncingBalls_Game**](https://github.com/stephenoduntan/Javascript-BouncingBalls_Game) | 2D physics simulation and collision mini-game built with JavaScript and the HTML5 Canvas API. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/Javascript-BouncingBalls_Game) |
+| [**Web-Portfolio**](https://github.com/stephenoduntan/Web-Portfolio) | Personal responsive portfolio website showcasing semantic HTML5 structure, modular CSS layout, and fluid typography. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/Web-Portfolio) |
 | [**jQuery_To-do_List**](https://github.com/stephenoduntan/jQuery_To-do_List) | Feature-complete task management application focusing on event-driven DOM operations and CSS transitions. | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/jQuery_To-do_List) |
-| [**Groove-Music-Clone**](https://github.com/stephenoduntan/Groove-Music-Clone) | Front-end user interface recreation of the desktop Groove Music media player experience. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/Groove-Music-Clone) |
-| [**Lagos-State-Govt.**](https://github.com/stephenoduntan/Lagos-State-Govt.) | Civic web portal prototype with localized information hierarchy and accessible government web patterns. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [**View Repo**](https://github.com/stephenoduntan/Lagos-State-Govt.) |
+| [**A-Aveion**](https://github.com/stephenoduntan/A-Aveion) | Responsive corporate aviation brand website featuring multi-section navigation, interactive gallery, and clean modern layout. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [**View Repo**](https://github.com/stephenoduntan/A-Aveion) |
 
 <details>
   <summary><b>📂 Expand for additional experimental & practice repositories</b></summary>
   <br/>
 
-  - [**Javascript-BouncingBalls_Game**](https://github.com/stephenoduntan/Javascript-BouncingBalls_Game) — Physics-based 2D HTML5 Canvas animation experiment.
+  - [**Groove-Music-Clone**](https://github.com/stephenoduntan/Groove-Music-Clone) — Desktop music player interface recreation.
+  - [**Lagos-State-Govt.**](https://github.com/stephenoduntan/Lagos-State-Govt.) — Civic web portal design-to-code prototype.
   - [**Custom-Calculator**](https://github.com/stephenoduntan/Custom-Calculator) — Modular arithmetic calculator interface.
   - [**Mysterio_land_page**](https://github.com/stephenoduntan/Mysterio_land_page) — High-impact promotional landing page build.
   - [**Smash_Clone**](https://github.com/stephenoduntan/Smash_Clone) — Micro-interaction and web layout study.
@@ -372,7 +371,7 @@ While client SaaS applications remain proprietary, here is a curated selection o
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## 🔬 How I Ship: Design-to-Code Pipeline
 
@@ -395,7 +394,7 @@ From initial constraints to living production code, every project moves through 
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## 📊 Activity & Vital Metrics
 
@@ -419,7 +418,7 @@ From initial constraints to living production code, every project moves through 
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit divider" />
 </p>
 
----
+
 
 ## 🤝 Work With Me
 
