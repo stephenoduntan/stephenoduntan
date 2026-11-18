@@ -364,6 +364,27 @@ Most teams face friction at the boundary between design and code. My hybrid work
       <br/>
       <sub><b>VScode</b></sub>
     </td>
+    <td width="16.66%" align="center">
+      <a href="#">
+        <img width="36" height="36" src="https://cdn.simpleicons.org/firebase" alt="Firebase" />
+      </a>
+      <br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <a href="#">
+        <img width="36" height="36" src="https://cdn.simpleicons.org/redis" alt="Redis" />
+      </a>
+      <br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td width="16.66%" align="center">
+      <a href="#">
+        <img width="36" height="36" src="https://cdn.simpleicons.org/bootstrap" alt="Boostrap" />
+      </a>
+      <br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
   </tr>
 </table>
 
